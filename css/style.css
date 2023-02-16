@@ -1,0 +1,28 @@
+/*Athour : Soja */
+
+.content {
+	background-color: rgb(201, 201, 212);
+	border-top: solid 5px orangered;
+}
+.height {
+	height: 300px;
+}
+.height img {
+	height: 100%;
+	border: 1px solid;
+}
+.social img {
+	width: 50px;
+}
+
+.progress-bar {
+	background-color: orangered;
+}
+.progress {
+	height: 15px;
+}
+.imgdiv img {
+	width: 200px;
+	height: 90px;
+	margin-bottom: 20px;
+}
